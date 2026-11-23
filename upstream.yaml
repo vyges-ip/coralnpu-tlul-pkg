@@ -3,7 +3,7 @@ upstream:
   type: "monorepo"
   source: https://github.com/google-coral/coralnpu
   path: fpga/ip/coralnpu_tlul
-  commit: 862ce1572fd79d1e6fe090f0a7e9e76000190ac2
+  commit: f385a31b4af454be21063fca1d17351b35a3a99c
   extracted_at: "2026-04-01T05:12:35Z"
 import:
   rtl:
